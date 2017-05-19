@@ -8,11 +8,11 @@ CS210 Project
 Scraps all data from web.
 Battletags from masteroverwatch.com, detailed information from owapi.net
 
-## battle_tags.json
+### battle_tags.json
 
 BattleTags of top 500 players.
 
-## data\___.json
+### data\___.json
 
 Detailed data of players in range in filename.
 
